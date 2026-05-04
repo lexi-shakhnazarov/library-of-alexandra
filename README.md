@@ -1,5 +1,5 @@
 # library of alexandra
-a repository of notes for my own learning and records and a way to explore being online ethically in the sharing of knowledge (and exploration of the coding/UI world) through a library garden
+a repository of notes for my own learning and records and a way to explore being online ethically in the sharing of knowledge (and exploration of the coding/UI world) through a library garden. are/na link can be found [here]([url](https://www.are.na/lexi-s/channels))
 
 ## focus areas
 
