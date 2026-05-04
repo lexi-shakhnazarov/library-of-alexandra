@@ -1,5 +1,5 @@
 # library of alexandra
-i'm a freelance researcher creating a repository of notes for my own learning and records and as a way to explore being online ethically in the sharing of knowledge (and exploration of the coding/UI world) through a library garden. are/na link can be found [here](https://www.are.na/lexi-s/channels) for more info
+i'm a "researcher" creating a repository of notes for my own learning and records and as a way to explore being online ethically in the sharing of knowledge (and exploration of the coding/UI world) through a library garden. are/na link can be found [here](https://www.are.na/lexi-s/channels) for more info
 
 _"People who are really serious about software should make their own hardware."
   -Alan Kay, 1982_
