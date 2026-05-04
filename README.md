@@ -4,11 +4,11 @@ i'm a freelance researcher creating a repository of notes for my own learning an
 "People who are really serious about software should make their own hardware."
   -Alan Kay, “Creative Think” 1982
 
-## focus areas
-notes on readings (political economy, critical theory), systems and cybernetics, law and regulation of the digital, meta stuff on knowledge systems, and personal remarks.
+topics cover notes on readings (political economy, critical theory), systems and cybernetics, law and regulation of the digital, meta stuff on knowledge systems, and personal remarks. a personal archive of my learning, where i've been and where i'm going
+
 
 
 ## workflow and build WIP
 
 philosophy: fragments over perfection, simplicity over clutter, and mark fisher's writings on k-punk
-currently being built with Github Pages, Jekyll, and an Edward Tufte inspired theme
+currently being built with Github Pages, Jekyll, and an Edward Tufte inspired theme. 
