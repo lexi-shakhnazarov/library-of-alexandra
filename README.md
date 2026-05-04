@@ -11,4 +11,5 @@ topics cover notes on readings (political economy, critical theory), systems and
 ## workflow and build WIP
 
 philosophy: fragments over perfection, simplicity over clutter, and mark fisher's writings on k-punk
+
 currently being built with Github Pages, Jekyll, and an Edward Tufte inspired theme. 
