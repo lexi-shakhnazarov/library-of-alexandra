@@ -5,14 +5,8 @@ i'm a freelance researcher creating a repository of notes for my own learning an
   -Alan Kay, “Creative Think” 1982
 
 ## focus areas
+notes on readings (political economy, critical theory), systems and cybernetics, law and regulation of the digital, meta stuff on knowledge systems, and personal remarks.
 
-- political economy
-- critical theory
-- literature and prose
-- science and technology studies
-- antitrust/competition law
-- infrastructure and systems theory
-- meta miscellaneous 
 
 ## workflow and build WIP
 
