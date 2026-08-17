@@ -1,15 +1,14 @@
 # library of alexandra
-i'm a "researcher" creating a repository of notes for my own learning archive and to explore being online ethically in the sharing of knowledge (and exploration of the coding/UI world) through a library garden. are/na link can be found [here](https://www.are.na/lexi-s/channels) for more info
+i'm a researcher cultivating an independent digital archive to explore ways of sharing knowledge without platforms. i'm inspired by the resurgence of blogs and "library gardens" that seek to reclaim their data from a monopolized cyberspace. 
 
-_"People who are really serious about software should make their own hardware."
-  -Alan Kay, 1982_
+I’m interested in the political economy of technological power and how it reshapes relations between markets, states, and individuals. More particularly, how neoliberal and Silicon Valley ideologies shape subjectivity and political agency, how Big Tech firms accumulate market and political power, and how law and regulation can constrain and contest that power.
 
-topics cover notes on readings (political economy, critical theory), systems and cybernetics, law and regulation of the digital, meta stuff on knowledge systems, and personal remarks. a personal archive of my learning, where i've been and where i'm going
+are/na link can be found [here](https://www.are.na/lexi-s/channels) for more on such stuff.
+
+"People who are really serious about software should make their own hardware."  -Alan Kay, 1982
 
 
 
 ## workflow and build WIP
 
-philosophy: fragments over perfection, simplicity over clutter, and mark fisher's writings on k-punk
-
-currently being built with Github Pages, Jekyll, and an Edward Tufte inspired theme. 
+experimenting with Obsidian for a markdown-based personal knowledge system exportable to Jekyll-powered Github Pages and Edward Tufte inspired UI design. 
